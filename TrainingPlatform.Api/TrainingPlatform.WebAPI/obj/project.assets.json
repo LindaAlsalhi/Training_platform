@@ -4791,11 +4791,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.WebAPI\\TrainingPlatform.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\MSI1\\OneDrive\\Desktop\\github\\Training_platform\\TrainingPlatform.Api\\TrainingPlatform.WebAPI\\TrainingPlatform.WebAPI.csproj",
       "projectName": "TrainingPlatform.WebAPI",
-      "projectPath": "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.WebAPI\\TrainingPlatform.WebAPI.csproj",
+      "projectPath": "C:\\Users\\MSI1\\OneDrive\\Desktop\\github\\Training_platform\\TrainingPlatform.Api\\TrainingPlatform.WebAPI\\TrainingPlatform.WebAPI.csproj",
       "packagesPath": "C:\\Users\\MSI1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\MSI1\\OneDrive\\Desktop\\github\\Training_platform\\TrainingPlatform.Api\\TrainingPlatform.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4817,14 +4817,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.Application\\TrainingPlatform.Application.csproj": {
-              "projectPath": "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.Application\\TrainingPlatform.Application.csproj"
+            "C:\\Users\\MSI1\\OneDrive\\Desktop\\github\\Training_platform\\TrainingPlatform.Api\\TrainingPlatform.Application\\TrainingPlatform.Application.csproj": {
+              "projectPath": "C:\\Users\\MSI1\\OneDrive\\Desktop\\github\\Training_platform\\TrainingPlatform.Api\\TrainingPlatform.Application\\TrainingPlatform.Application.csproj"
             },
-            "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.Core\\TrainingPlatform.Core.csproj": {
-              "projectPath": "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.Core\\TrainingPlatform.Core.csproj"
+            "C:\\Users\\MSI1\\OneDrive\\Desktop\\github\\Training_platform\\TrainingPlatform.Api\\TrainingPlatform.Core\\TrainingPlatform.Core.csproj": {
+              "projectPath": "C:\\Users\\MSI1\\OneDrive\\Desktop\\github\\Training_platform\\TrainingPlatform.Api\\TrainingPlatform.Core\\TrainingPlatform.Core.csproj"
             },
-            "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.Infrastructure\\TrainingPlatform.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.Infrastructure\\TrainingPlatform.Infrastructure.csproj"
+            "C:\\Users\\MSI1\\OneDrive\\Desktop\\github\\Training_platform\\TrainingPlatform.Api\\TrainingPlatform.Infrastructure\\TrainingPlatform.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\MSI1\\OneDrive\\Desktop\\github\\Training_platform\\TrainingPlatform.Api\\TrainingPlatform.Infrastructure\\TrainingPlatform.Infrastructure.csproj"
             }
           }
         }

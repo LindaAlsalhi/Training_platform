@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "afOcc6DwtYw=",
+  "dgSpecHash": "WA/n5auzKkk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.Application\\TrainingPlatform.Application.csproj",
+  "projectFilePath": "C:\\Users\\MSI1\\OneDrive\\Desktop\\github\\Training_platform\\TrainingPlatform.Api\\TrainingPlatform.Application\\TrainingPlatform.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MSI1\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\MSI1\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

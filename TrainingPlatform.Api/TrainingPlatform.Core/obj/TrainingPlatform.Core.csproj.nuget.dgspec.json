@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.Core\\TrainingPlatform.Core.csproj": {}
+    "C:\\Users\\MSI1\\OneDrive\\Desktop\\github\\Training_platform\\TrainingPlatform.Api\\TrainingPlatform.Core\\TrainingPlatform.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.Core\\TrainingPlatform.Core.csproj": {
+    "C:\\Users\\MSI1\\OneDrive\\Desktop\\github\\Training_platform\\TrainingPlatform.Api\\TrainingPlatform.Core\\TrainingPlatform.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.Core\\TrainingPlatform.Core.csproj",
+        "projectUniqueName": "C:\\Users\\MSI1\\OneDrive\\Desktop\\github\\Training_platform\\TrainingPlatform.Api\\TrainingPlatform.Core\\TrainingPlatform.Core.csproj",
         "projectName": "TrainingPlatform.Core",
-        "projectPath": "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.Core\\TrainingPlatform.Core.csproj",
+        "projectPath": "C:\\Users\\MSI1\\OneDrive\\Desktop\\github\\Training_platform\\TrainingPlatform.Api\\TrainingPlatform.Core\\TrainingPlatform.Core.csproj",
         "packagesPath": "C:\\Users\\MSI1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.Core\\obj\\",
+        "outputPath": "C:\\Users\\MSI1\\OneDrive\\Desktop\\github\\Training_platform\\TrainingPlatform.Api\\TrainingPlatform.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
