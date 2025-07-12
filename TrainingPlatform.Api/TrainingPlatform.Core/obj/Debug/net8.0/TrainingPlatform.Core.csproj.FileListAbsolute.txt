@@ -1,0 +1,14 @@
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Core\bin\Debug\net8.0\TrainingPlatform.Core.deps.json
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Core\bin\Debug\net8.0\TrainingPlatform.Core.runtimeconfig.json
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Core\bin\Debug\net8.0\TrainingPlatform.Core.dll
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Core\bin\Debug\net8.0\TrainingPlatform.Core.pdb
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Core\obj\Debug\net8.0\TrainingPlatform.Core.csproj.AssemblyReference.cache
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Core\obj\Debug\net8.0\TrainingPlatform.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Core\obj\Debug\net8.0\TrainingPlatform.Core.AssemblyInfoInputs.cache
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Core\obj\Debug\net8.0\TrainingPlatform.Core.AssemblyInfo.cs
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Core\obj\Debug\net8.0\TrainingPlatform.Core.csproj.CoreCompileInputs.cache
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Core\obj\Debug\net8.0\TrainingPlatform.Core.dll
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Core\obj\Debug\net8.0\refint\TrainingPlatform.Core.dll
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Core\obj\Debug\net8.0\TrainingPlatform.Core.pdb
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Core\obj\Debug\net8.0\TrainingPlatform.Core.genruntimeconfig.cache
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Core\obj\Debug\net8.0\ref\TrainingPlatform.Core.dll

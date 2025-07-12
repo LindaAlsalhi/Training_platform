@@ -1,0 +1,17 @@
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Application\bin\Debug\net8.0\TrainingPlatform.Application.deps.json
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Application\bin\Debug\net8.0\TrainingPlatform.Application.runtimeconfig.json
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Application\bin\Debug\net8.0\TrainingPlatform.Application.dll
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Application\bin\Debug\net8.0\TrainingPlatform.Application.pdb
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Application\bin\Debug\net8.0\TrainingPlatform.Core.dll
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Application\bin\Debug\net8.0\TrainingPlatform.Core.pdb
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Application\obj\Debug\net8.0\TrainingPlatform.Application.csproj.AssemblyReference.cache
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Application\obj\Debug\net8.0\TrainingPlatform.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Application\obj\Debug\net8.0\TrainingPlatform.Application.AssemblyInfoInputs.cache
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Application\obj\Debug\net8.0\TrainingPlatform.Application.AssemblyInfo.cs
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Application\obj\Debug\net8.0\TrainingPlatform.Application.csproj.CoreCompileInputs.cache
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Application\obj\Debug\net8.0\Training.278D26DF.Up2Date
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Application\obj\Debug\net8.0\TrainingPlatform.Application.dll
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Application\obj\Debug\net8.0\refint\TrainingPlatform.Application.dll
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Application\obj\Debug\net8.0\TrainingPlatform.Application.pdb
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Application\obj\Debug\net8.0\TrainingPlatform.Application.genruntimeconfig.cache
+C:\Users\MSI1\source\repos\TrainingPlatform.Api\TrainingPlatform.Application\obj\Debug\net8.0\ref\TrainingPlatform.Application.dll

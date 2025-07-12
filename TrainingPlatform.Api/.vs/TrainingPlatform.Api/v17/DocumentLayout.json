@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D7741C-D4A5-4E93-ABD3-09ADF7B2DEE8}|TrainingPlatform.Api\\TrainingPlatform.Api.csproj|c:\\users\\msi1\\source\\repos\\trainingplatform.api\\trainingplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D7741C-D4A5-4E93-ABD3-09ADF7B2DEE8}|TrainingPlatform.Api\\TrainingPlatform.Api.csproj|solutionrelative:trainingplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37FFDB1-73B1-4669-8ADD-CE0D7FF8C03C}|TrainingPlatform.Infrastructure\\TrainingPlatform.Infrastructure.csproj|c:\\users\\msi1\\source\\repos\\trainingplatform.api\\trainingplatform.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37FFDB1-73B1-4669-8ADD-CE0D7FF8C03C}|TrainingPlatform.Infrastructure\\TrainingPlatform.Infrastructure.csproj|solutionrelative:trainingplatform.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5ADC17-62C1-4701-A6B8-B898B893FE79}|TrainingPlatform.Core\\TrainingPlatform.Core.csproj|c:\\users\\msi1\\source\\repos\\trainingplatform.api\\trainingplatform.core\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5ADC17-62C1-4701-A6B8-B898B893FE79}|TrainingPlatform.Core\\TrainingPlatform.Core.csproj|solutionrelative:trainingplatform.core\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5ADC17-62C1-4701-A6B8-B898B893FE79}|TrainingPlatform.Core\\TrainingPlatform.Core.csproj|c:\\users\\msi1\\source\\repos\\trainingplatform.api\\trainingplatform.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5ADC17-62C1-4701-A6B8-B898B893FE79}|TrainingPlatform.Core\\TrainingPlatform.Core.csproj|solutionrelative:trainingplatform.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D7741C-D4A5-4E93-ABD3-09ADF7B2DEE8}|TrainingPlatform.Api\\TrainingPlatform.Api.csproj|c:\\users\\msi1\\source\\repos\\trainingplatform.api\\trainingplatform.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8D7741C-D4A5-4E93-ABD3-09ADF7B2DEE8}|TrainingPlatform.Api\\TrainingPlatform.Api.csproj|solutionrelative:trainingplatform.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D7741C-D4A5-4E93-ABD3-09ADF7B2DEE8}|TrainingPlatform.Api\\TrainingPlatform.Api.csproj|c:\\users\\msi1\\source\\repos\\trainingplatform.api\\trainingplatform.api\\trainingplatform.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8D7741C-D4A5-4E93-ABD3-09ADF7B2DEE8}|TrainingPlatform.Api\\TrainingPlatform.Api.csproj|solutionrelative:trainingplatform.api\\trainingplatform.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.Core\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "TrainingPlatform.Core\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.Core\\Entities\\Course.cs",
+              "RelativeToolTip": "TrainingPlatform.Core\\Entities\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T12:00:54.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TrainingPlatform.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.Core\\Entities\\User.cs",
+              "RelativeToolTip": "TrainingPlatform.Core\\Entities\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T20:05:08.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "TrainingPlatform.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.Api\\appsettings.json",
+              "RelativeToolTip": "TrainingPlatform.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T20:02:51.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrainingPlatform.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.Api\\TrainingPlatform.Api.csproj",
+              "RelativeDocumentMoniker": "TrainingPlatform.Api\\TrainingPlatform.Api.csproj",
+              "ToolTip": "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.Api\\TrainingPlatform.Api.csproj",
+              "RelativeToolTip": "TrainingPlatform.Api\\TrainingPlatform.Api.csproj",
+              "ViewState": "AQIAAA4AAAAAmZB0xkkAwBAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-11T20:01:49.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.Api\\Program.cs",
+              "RelativeDocumentMoniker": "TrainingPlatform.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.Api\\Program.cs",
+              "RelativeToolTip": "TrainingPlatform.Api\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAvwBYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T19:55:49.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TrainingPlatform.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\MSI1\\source\\repos\\TrainingPlatform.Api\\TrainingPlatform.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TrainingPlatform.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T18:04:27.709Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

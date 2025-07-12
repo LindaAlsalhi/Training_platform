@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IigXBjtb9ZyhIgIK0iouWwkd2wdjKs7ul90bG8XEP5o=",
+  "Source": "TrainingPlatform.Api",
+  "BasePath": "_content/TrainingPlatform.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
